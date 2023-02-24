@@ -31,6 +31,6 @@ h4 {
   background-color: #7a92a3;
 }
 
-.custom-toggler .navbar-toggler {
+.custom-toggler.navbar-toggler {
   border-color: rgb(255,102,203) !important;
 } 
