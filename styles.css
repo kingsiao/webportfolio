@@ -2,16 +2,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 h3,
 h4 {
-  font-family: 'Josefin Slab', serif;
+  font-family: "Josefin Slab", serif;
   color: #000;
 }
 
@@ -20,7 +20,7 @@ h4 {
 }
 
 .box-2 {
-  background-color: #C66B3D;
+  background-color: #c66b3d;
 }
 
 .box-3 {
@@ -32,5 +32,5 @@ h4 {
 }
 
 .custom-toggler.navbar-toggler {
-  border-color: rgb(255,102,203) !important;
-} 
+  border-color: black !important;
+}
